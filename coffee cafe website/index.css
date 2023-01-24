@@ -1,0 +1,67 @@
+#nav{
+    border-radius: 20px;
+}
+#logo{
+    font-style: oblique;
+}
+#img1{
+    border-radius: 30px;
+    width: 100%;
+    height: auto;
+}
+#img3{
+    border-radius: 30px;
+    width: 100%;
+height: 80%;
+    
+}
+#cof{
+    color: brown;
+    font-style: oblique;
+    background-color: aquamarine;
+    font-size: 40px;
+    border-radius: 30px;
+    width: 100%;
+    height: auto;
+    
+}
+#header{
+   /* background-color: aliceblue;*/
+    text-align: center;
+    margin: 0 auto;
+    height: 200px;
+
+}
+#drinks{
+    width: 1200px;
+    height: 400px;
+    border-radius: 20px;
+}
+#cake1{
+    width: 1200px;
+    height: 400px;
+    border-radius: 20px;
+}
+#muffin1{
+    width: 1200px;
+    height: 400px;
+    border-radius: 20px;
+}
+#ice{
+    width: 355px;
+    height: 225px;
+}
+#drink{
+    width: 355px;
+    height: 225px;
+}
+#snack{
+    width: 355px;
+    height: 225px;
+}
+#footer{
+    background-color: rgb(234, 225, 225);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
